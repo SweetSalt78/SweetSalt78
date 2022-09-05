@@ -1,6 +1,4 @@
-Curious C++ coder.
-
-Instagram: @caganvert
+hi...
 
 <!---
 SweetSalt78/SweetSalt78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
